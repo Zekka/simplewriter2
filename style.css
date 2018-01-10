@@ -1,0 +1,40 @@
+.preApproved {
+}
+
+.probablyOk {
+  color: #0080ff;
+}
+
+.toolong6 {
+ color: transparent;
+ text-shadow: 0 0 1px rgba(0,0,0,0.9);
+}
+
+.toolong7 {
+ color: transparent;
+ text-shadow: 0 0 1px rgba(0,0,0,0.8);
+}
+
+.toolong8 {
+ color: transparent;
+ text-shadow: 0 0 2px rgba(0,0,0,0.7);
+}
+
+.toolong9 {
+ color: transparent;
+ text-shadow: 0 0 3px rgba(0,0,0,0.6);
+}
+
+.wtf {
+ color: transparent;
+ text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+#words {
+  width: 100%;
+  height: 50%;
+}
+
+#wordsbox {
+  font-size: 1.5em;
+}
